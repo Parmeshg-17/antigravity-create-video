@@ -31,7 +31,7 @@ Once installed, simply ask Antigravity in your chat:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/antigravity-create-video.git
+git clone https://github.com/Parmeshg-17/antigravity-create-video.git
 cd antigravity-create-video
 ```
 
