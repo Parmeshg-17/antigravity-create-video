@@ -1,0 +1,16 @@
+# Video renders and temporary build artifacts
+output/
+temp_video_build/
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# System artifacts
+.DS_Store
+Thumbs.db
